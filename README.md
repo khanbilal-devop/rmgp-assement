@@ -109,8 +109,6 @@ table.query(KeyConditionExpression=Key("decade").eq("1980s") & Key("sk").begins_
 2. Open **AWS CloudShell** in the same region and upload `aws/games.json` and `aws/seed.py`.
 3. Run `python3 seed.py`. It prints `Wrote 45 games; table now holds 45 items.`
 
-A screenshot of the table's items is in [`docs/dynamodb-table.png`](docs/dynamodb-table.png).
-
 ## API (Lambda)
 
 `aws/lambda_handler.py` runs as the Lambda `rmgp-games-api` (Python) behind a Function URL.
