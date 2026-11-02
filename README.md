@@ -171,7 +171,6 @@ Example questions: "Which games are from the 1980s?", "Which games are for two p
 
 - **RMGP:** the game data, the photos and the hero video are from the Retro Mobile Gaming Project (https://www.rmgd.org) and are used for this assignment only. The page's layout and colours follow rmgd.org.
 - **Font:** Geist and Geist Mono, from Fontsource.
-- **AI help:** built with help from Claude Code, an AI coding assistant, which also drafted the About text.
 
 ## Time spent
 
