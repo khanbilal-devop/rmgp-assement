@@ -167,6 +167,10 @@ Example questions: "Which games are from the 1980s?", "Which games are for two p
 - The voice input on the live chat, and any AI-model answers.
 - Copies of the images in the repo. They're shown from RMGP's image store.
 
+## Report
+
+A short write-up for reviewers is in [`docs/RMGP-Take-Home-Report.pdf`](docs/RMGP-Take-Home-Report.pdf).
+
 ## Credits
 
 - **RMGP:** the game data, the photos and the hero video are from the Retro Mobile Gaming Project (https://www.rmgd.org) and are used for this assignment only. The page's layout and colours follow rmgd.org.
@@ -174,7 +178,7 @@ Example questions: "Which games are from the 1980s?", "Which games are for two p
 
 ## Time spent
 
-_To be filled in honestly by the author._
+About 4 hours.
 
 ## After the interview
 
