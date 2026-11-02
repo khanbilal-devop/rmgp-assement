@@ -1,0 +1,16 @@
+# Dependencies and build output
+node_modules/
+dist/
+
+# Local settings and secrets (the Lambda URL lives in application/.env.local)
+.env
+.env.local
+*.local
+
+# Editor, OS and tool files
+.DS_Store
+.claude/
+__pycache__/
+
+# Working notes, replaced by the README
+PLAN.md

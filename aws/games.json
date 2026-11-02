@@ -1,0 +1,1472 @@
+[
+  {
+    "id": "28cea1b6",
+    "title": "Tomy Blip",
+    "year": 1977,
+    "yearLabel": "1977",
+    "decade": "1970s",
+    "device": "Built-in (dedicated device)",
+    "type": "Handheld electronic game",
+    "platform": [
+      "Built-in (dedicated device)"
+    ],
+    "hardware": "Game Console",
+    "genre": "Mobile",
+    "playStyle": [],
+    "connectivity": [
+      "Standalone"
+    ],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Tomy",
+    "maker": [
+      "Tomy"
+    ],
+    "country": "United States of America",
+    "origin": [
+      "United States"
+    ],
+    "description": "BLIP The Digital Game is a handheld electronic game where players press buttons to catch moving signals. It uses LED lights and button controls",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/consoles/IMG_2931.jpeg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 1,
+    "sk": "Built-in (dedicated device)#28cea1b6"
+  },
+  {
+    "id": "e409d825",
+    "title": "Microvision",
+    "year": 1979,
+    "yearLabel": "1979",
+    "decade": "1970s",
+    "device": "Milton Bradley Microvision",
+    "type": "Handheld console",
+    "platform": [
+      "Milton Bradley Microvision"
+    ],
+    "hardware": "Game Console",
+    "genre": "Handheld",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [
+      "Multiplayer"
+    ],
+    "developer": "Milton Bradley",
+    "maker": [
+      "Milton Bradley"
+    ],
+    "country": "",
+    "origin": [],
+    "description": "Handheld gaming console- uses inter-changeable cartridges, LCD screen. Game cartridges provided hardware to help system the system run, in order for it to be more compact.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/1878ebf6_1790786187475_IMG_4660_unverified.jpeg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 2,
+    "sk": "Milton Bradley Microvision#e409d825"
+  },
+  {
+    "id": "12f33919",
+    "title": "Missile Attack",
+    "year": 1977,
+    "yearLabel": "1977",
+    "decade": "1970s",
+    "device": "Mobile phone",
+    "type": "Game / software",
+    "platform": [
+      "Mobile phone"
+    ],
+    "hardware": "Cell Phone",
+    "genre": "Mobile",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Mattel",
+    "maker": [
+      "Mattel"
+    ],
+    "country": "United States",
+    "origin": [
+      "United States"
+    ],
+    "description": "Released in 1976, this game requires the player to fire missiles at attacking adversaries, while the players aircraft stays at the bottom of the screen. This game did not sell well, due to the name and the fear of the Cold War. Mattel would eventually rename this game as Space Alert with a Battlestar Galactica theme. This console is powered by a 9V battery.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/12a6f330_1757954675_Mattel-MissileAttack.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 3,
+    "sk": "Mobile phone#12f33919"
+  },
+  {
+    "id": "dab1cc6b",
+    "title": "Darth Vader's Force Battle",
+    "year": 1977,
+    "yearLabel": "1977",
+    "decade": "1970s",
+    "device": "Other",
+    "type": "Other",
+    "platform": [],
+    "hardware": "Calculator",
+    "genre": "Mobile",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Texas Instruments",
+    "maker": [
+      "Texas Instruments"
+    ],
+    "country": "",
+    "origin": [],
+    "description": "Using the TI-59 programable calculator's external storage through magnetic strips,  one could use a type-in program to play games like chess or Darth Vader's Force Battle. Users would receive the code from a magazine (BYTE), type-in the code, and would then be able to play the game.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/aca7731f_1757954285_39ac8452b0db0b919d142261b5bdd835.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 4,
+    "sk": "Other#dab1cc6b"
+  },
+  {
+    "id": "a5488a1e-a38d-45ee-ad06-4d6faca64046",
+    "title": "TI Programmable 58/59 Calculator",
+    "year": 1977,
+    "yearLabel": "1977/1980",
+    "decade": "1970s",
+    "device": "Calculator",
+    "type": "Calculator",
+    "platform": [],
+    "hardware": "",
+    "genre": "",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [],
+    "developer": "Texas Instruments",
+    "maker": [
+      "Texas Instruments"
+    ],
+    "country": "United States of America",
+    "origin": [
+      "United States"
+    ],
+    "description": "TI Programmable 58/59 Calculator is a programmable device where users input and run programs for calculations. It features an LCD display and programmable memory technology.",
+    "image": "",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 5,
+    "sk": "Calculator#a5488a1e-a38d-45ee-ad06-4d6faca64046"
+  },
+  {
+    "id": "d0ac9d9e",
+    "title": "Hockey",
+    "year": 1979,
+    "yearLabel": "1979",
+    "decade": "1970s",
+    "device": "Built-in (dedicated device)",
+    "type": "Handheld electronic game",
+    "platform": [
+      "Built-in (dedicated device)"
+    ],
+    "hardware": "Game Console",
+    "genre": "",
+    "playStyle": [],
+    "connectivity": [
+      "Standalone"
+    ],
+    "players": [
+      "Multiplayer"
+    ],
+    "developer": "Entex",
+    "maker": [
+      "Entex"
+    ],
+    "country": "USA",
+    "origin": [
+      "United States"
+    ],
+    "description": "Hockey is an electronic simulation game developed by Entex. Players could play against one another or a computer. Four yellow arrow keys determined player movement and a yellow shoot button was next to it. Players would look at lights on a hockey rink to determine where their player was and when to shoot if close enough while avoiding opposing players. The console is a dark green and features two sets of controls at opposite ends.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/782608a0_1757954661_Entex-HockeyProBoxCanada.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 6,
+    "sk": "Built-in (dedicated device)#d0ac9d9e"
+  },
+  {
+    "id": "47b39b87",
+    "title": "Electronic Quarterback",
+    "year": 1978,
+    "yearLabel": "1978",
+    "decade": "1970s",
+    "device": "Built-in (dedicated device)",
+    "type": "Handheld electronic game",
+    "platform": [
+      "Built-in (dedicated device)"
+    ],
+    "hardware": "Game Console",
+    "genre": "Mobile",
+    "playStyle": [],
+    "connectivity": [
+      "Standalone"
+    ],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Coleco",
+    "maker": [
+      "Coleco"
+    ],
+    "country": "United States",
+    "origin": [
+      "United States"
+    ],
+    "description": "An electronic handheld football game. Allows the player to throw the ball as the Quarterback, instead of just running plays like many of early electronic football games. The handheld was powered by a 9-volt battery or an AC adaptor. Difficulty could be selected and that controlled the AI defense. Electronic Quarterback was created as a cheaper and more dynamic game compared to Mattel's Electronic Football.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/15f6b531_1757955085_1200px-Coleco_Electronic_Quarterback__Made_in_Hong_Kong__Circa_1978__LED_Handheld_Electronic_Game_.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 7,
+    "sk": "Built-in (dedicated device)#47b39b87"
+  },
+  {
+    "id": "52f2f25f-fe79-4843-b4ad-e2a2a3a7e730",
+    "title": "Gaming console",
+    "year": 1972,
+    "yearLabel": "1972",
+    "decade": "1970s",
+    "device": "Built-in (dedicated device)",
+    "type": "Handheld electronic game",
+    "platform": [
+      "Built-in (dedicated device)"
+    ],
+    "hardware": "",
+    "genre": "",
+    "playStyle": [],
+    "connectivity": [
+      "Standalone"
+    ],
+    "players": [],
+    "developer": "Tiger Electronics",
+    "maker": [
+      "Tiger Electronics"
+    ],
+    "country": "United States of America",
+    "origin": [
+      "United States"
+    ],
+    "description": "A gaming console is a handheld electronic device where players interact with built-in or single-game functionality using controls. It uses LCD screens with limited animation and physical button inputs.",
+    "image": "",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 8,
+    "sk": "Built-in (dedicated device)#52f2f25f-fe79-4843-b4ad-e2a2a3a7e730"
+  },
+  {
+    "id": "1c0370f3",
+    "title": "Mattel Electronics Horoscope Computer",
+    "year": 1979,
+    "yearLabel": "1979",
+    "decade": "1970s",
+    "device": "Built-in (dedicated device)",
+    "type": "Handheld electronic game",
+    "platform": [
+      "Built-in (dedicated device)"
+    ],
+    "hardware": "Game Console",
+    "genre": "Handheld",
+    "playStyle": [],
+    "connectivity": [
+      "Standalone"
+    ],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Mattel",
+    "maker": [
+      "Mattel"
+    ],
+    "country": "USA",
+    "origin": [
+      "United States"
+    ],
+    "description": "The Mattel Electronics Horoscope Computer is a small handheld device that is designed to predict your horoscope and compatibility with others. Users have access to predictions for all 12 astrological signs. The other inputs are \"love,\" \"career,\" \"travel,\" \"money,\" \"friends,\" \"spirit,\" \"family,\" and \"creative.\" Users would select the astrological sign that applies to them from the circle of inputs to the left, then select a category for a prediction from the inputs to the right, and then receive a vague message in the middle of the circle. According to the instructions, the game was only accurate from June 1, 1979 to December 31, 1987.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/054ab36e_1757953729_post-13896-127471023402.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 9,
+    "sk": "Built-in (dedicated device)#1c0370f3"
+  },
+  {
+    "id": "b932d967-27bb-462f-bb4d-c6a75ce141d6",
+    "title": "Star Trek Phaser Strike",
+    "year": 1979,
+    "yearLabel": "1979",
+    "decade": "1970s",
+    "device": "Milton Bradley Microvision",
+    "type": "Game / software",
+    "platform": [
+      "Milton Bradley Microvision"
+    ],
+    "hardware": "",
+    "genre": "",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [],
+    "developer": "Milton Bradley",
+    "maker": [
+      "Milton Bradley"
+    ],
+    "country": "United States of America",
+    "origin": [
+      "United States"
+    ],
+    "description": "Star Trek Phaser Strike is a board game where players simulate battles using strategic movement and actions. It uses a physical board and game pieces.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/78ef0c9e_1790788210970_RMGP7.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 10,
+    "sk": "Milton Bradley Microvision#b932d967-27bb-462f-bb4d-c6a75ce141d6"
+  },
+  {
+    "id": "1ca600e5-4400-4c3c-9537-45333cbdd002",
+    "title": "FL Beam Galaxian",
+    "year": 1980,
+    "yearLabel": "1980",
+    "decade": "1980s",
+    "device": "Built-in (dedicated device)",
+    "type": "Handheld electronic game",
+    "platform": [
+      "Built-in (dedicated device)"
+    ],
+    "hardware": "VFD display (vacuum fluorescent), segmented display system",
+    "genre": "Arcade, Action",
+    "playStyle": [
+      "Arcade / Action"
+    ],
+    "connectivity": [
+      "Standalone"
+    ],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Bandai",
+    "maker": [
+      "Bandai"
+    ],
+    "country": "Japan",
+    "origin": [
+      "Japan"
+    ],
+    "description": "FL Beam Galaxian is a handheld adaptation of Galaxian using VFD technology, where players shoot descending enemies with button controls. It simulates motion through light patterns, reflecting early portable arcade design under hardware constraints.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/e87e2d98_1790788445235_IMG_5270.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 11,
+    "sk": "Built-in (dedicated device)#1ca600e5-4400-4c3c-9537-45333cbdd002"
+  },
+  {
+    "id": "2b3b232d-b382-4b3c-b4a4-f1cdabd6b57a",
+    "title": "ZTE Phone",
+    "year": 1985,
+    "yearLabel": "1985",
+    "decade": "1980s",
+    "device": "Mobile phone",
+    "type": "Mobile phone",
+    "platform": [],
+    "hardware": "",
+    "genre": "",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [],
+    "developer": "Zhongxing",
+    "maker": [
+      "Zhongxing"
+    ],
+    "country": "China",
+    "origin": [
+      "China"
+    ],
+    "description": "ZTE Phone is a mobile phone where users make voice calls and communicate using basic functions. It uses early mobile phone technology with a simple display.",
+    "image": "",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 12,
+    "sk": "Mobile phone#2b3b232d-b382-4b3c-b4a4-f1cdabd6b57a"
+  },
+  {
+    "id": "02768e92",
+    "title": "Keith Courage in Alpha Zones",
+    "year": 1989,
+    "yearLabel": "1989",
+    "decade": "1980s",
+    "device": "TurboExpress",
+    "type": "Game / software",
+    "platform": [
+      "TurboExpress"
+    ],
+    "hardware": "Game Console",
+    "genre": "Mobile",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Hudson Soft, NEC",
+    "maker": [
+      "Hudson Soft",
+      "NEC"
+    ],
+    "country": "Japan",
+    "origin": [
+      "Japan"
+    ],
+    "description": "A sci-fi platformer for the TurboGrafx-16 and Turbo Express Handheld. Players control Keith Courage as he fights off an alien invasion with his sword. Keith Courage in Alpha Zones has seven levels, taking place in the vertically platforming overworld and the horizontal and vertically platforming underworld. Players must combat enemies in each setting, with the underworld being more difficult. This game is based on the anime Spirit Hero Wataru.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/7a52529a_1757955066_91MFAWOvO3L._SX342_.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 13,
+    "sk": "TurboExpress#02768e92"
+  },
+  {
+    "id": "cabdc974",
+    "title": "Hamburger",
+    "year": 1982,
+    "yearLabel": "1982",
+    "decade": "1980s",
+    "device": "Built-in (dedicated device)",
+    "type": "Handheld electronic game",
+    "platform": [
+      "Built-in (dedicated device)"
+    ],
+    "hardware": "Game Console, Link Cable",
+    "genre": "Handheld",
+    "playStyle": [],
+    "connectivity": [
+      "Link cable"
+    ],
+    "players": [
+      "Multiplayer"
+    ],
+    "developer": "Takara",
+    "maker": [
+      "Takara"
+    ],
+    "country": "Japan",
+    "origin": [
+      "Japan"
+    ],
+    "description": "Hamburger is a handheld console developed by Takara. Players use the 2 action buttons to control their character as they do simple tasks to earn score. The system has a built-in clock and can allow up to 4 consoles to be connected for multiplayer using a cable.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/28298553_1757953519_Takara-Hamburger.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 14,
+    "sk": "Built-in (dedicated device)#cabdc974"
+  },
+  {
+    "id": "c1b28968",
+    "title": "Time & Fun Diamond Hunt",
+    "year": 1982,
+    "yearLabel": "1982",
+    "decade": "1980s",
+    "device": "Built-in (dedicated device)",
+    "type": "Handheld electronic game",
+    "platform": [
+      "Built-in (dedicated device)"
+    ],
+    "hardware": "Game Console",
+    "genre": "Handheld",
+    "playStyle": [],
+    "connectivity": [
+      "Standalone"
+    ],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Vtech",
+    "maker": [
+      "Vtech"
+    ],
+    "country": "Hong Kong",
+    "origin": [
+      "Hong Kong"
+    ],
+    "description": "A handheld game console with 3 LCD screens. In Diamond Hunt, players avoid obstacles, swing from vines, and dodge attacks from animals in order to find a diamond. Gameplay spanned across all three screens. The very top screen would fold over the middle one to cover and protect it, as well as make it more portable.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/b7a0898d_1757953523_sddefault.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 15,
+    "sk": "Built-in (dedicated device)#c1b28968"
+  },
+  {
+    "id": "92f820bf",
+    "title": "Nelsonic Zelda Watch",
+    "year": 1989,
+    "yearLabel": "1989",
+    "decade": "1980s",
+    "device": "Built-in (dedicated device)",
+    "type": "Virtual pet & wearable",
+    "platform": [
+      "Built-in (dedicated device)"
+    ],
+    "hardware": "Game Console",
+    "genre": "Mobile",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [
+      "Multiplayer"
+    ],
+    "developer": "Nelsonic",
+    "maker": [
+      "Nelsonic"
+    ],
+    "country": "USA",
+    "origin": [
+      "United States"
+    ],
+    "description": "A gaming watch created by Nelsonic based on the Nintendo franchise The Legend of Zelda. The watch comes in black, pink, white or red and had four movement buttons. Gameplay is top down and involves the player controlling the main character, link through a variety of dungeons and obstacles. Similar items and enemies from the main series appear as well.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/129dd74a_1757954219_N8njYJ4.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 16,
+    "sk": "Built-in (dedicated device)#92f820bf"
+  },
+  {
+    "id": "bca605de",
+    "title": "Super Mario Land",
+    "year": 1989,
+    "yearLabel": "1989",
+    "decade": "1980s",
+    "device": "Game Boy",
+    "type": "Game / software",
+    "platform": [
+      "Game Boy"
+    ],
+    "hardware": "Game Console",
+    "genre": "Handheld",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Nintendo",
+    "maker": [
+      "Nintendo"
+    ],
+    "country": "Japan",
+    "origin": [
+      "Japan"
+    ],
+    "description": "Super Mario Land is a side scrolling 2D platformer developed by Nintendo for the Game Boy. It was the first Super Mario game on a handheld console. The game features 2D side scrolling platforming gameplay where players leap across platforms and stomp on enemies as Super Mario. Super Mario Land was rereleased on the 3DS E-Shop.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/611afd9c_1757954756_image_611afd9c.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 17,
+    "sk": "Game Boy#bca605de"
+  },
+  {
+    "id": "bfb6a072",
+    "title": "Galaxy Twinvader",
+    "year": 1981,
+    "yearLabel": "1981",
+    "decade": "1980s",
+    "device": "Built-in (dedicated device)",
+    "type": "Handheld electronic game",
+    "platform": [
+      "Built-in (dedicated device)"
+    ],
+    "hardware": "Game Console",
+    "genre": "Mobile",
+    "playStyle": [],
+    "connectivity": [
+      "Standalone"
+    ],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "CGL, Hanzawa",
+    "maker": [
+      "CGL",
+      "Hanzawa"
+    ],
+    "country": "Japan",
+    "origin": [
+      "Japan"
+    ],
+    "description": "Handheld device with multi-directional controller and 3 inputs -- gameplay similar to the game space invaders. The console has a fire button, a joystick for control, a sound on/must switch, a demo button, and a reset button. The display had blue as the ship and red as the enemies players must shoot.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/021d0ba6_1757954323_544_1429819410946_CGL_Galaxy_Twinvader.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 18,
+    "sk": "Built-in (dedicated device)#bfb6a072"
+  },
+  {
+    "id": "9fc406b6",
+    "title": "Trojan Horse",
+    "year": 1981,
+    "yearLabel": "1981",
+    "decade": "1980s",
+    "device": "Built-in (dedicated device)",
+    "type": "Handheld electronic game",
+    "platform": [
+      "Built-in (dedicated device)"
+    ],
+    "hardware": "Game Console",
+    "genre": "Handheld",
+    "playStyle": [],
+    "connectivity": [
+      "Standalone"
+    ],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Gakken",
+    "maker": [
+      "Gakken"
+    ],
+    "country": "Japan",
+    "origin": [
+      "Japan"
+    ],
+    "description": "Trojan Horse is a portable LCD game developed by Gakken. The console is small and silver with a green outline around the settings buttons and screen. Two control buttons were present: the one on the left defended a window, and the one on the right dropped a drawbridge. Players had to use these buttons to allow the correct soldiers into a fortress.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/2d1c41c5_1757953561_805_1216324844674_Gakken_Trojan_Horse___Cheval_de_Troie.jpeg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 19,
+    "sk": "Built-in (dedicated device)#9fc406b6"
+  },
+  {
+    "id": "17e34795",
+    "title": "Winning Racer",
+    "year": 1987,
+    "yearLabel": "1987",
+    "decade": "1980s",
+    "device": "Built-in (dedicated device)",
+    "type": "Handheld electronic game",
+    "platform": [
+      "Built-in (dedicated device)"
+    ],
+    "hardware": "Game Console",
+    "genre": "Mobile",
+    "playStyle": [],
+    "connectivity": [
+      "Standalone"
+    ],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Casio",
+    "maker": [
+      "Casio"
+    ],
+    "country": "Japan",
+    "origin": [
+      "Japan"
+    ],
+    "description": "Watch which includes a game called \"Winning Racer\" -- the watch's face includes two input buttons. Players would use these two buttons to control their car in order to try and pass other competitors. The watch also had an alarm function built in.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/0d636706_1757953609_maxresdefault.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 20,
+    "sk": "Built-in (dedicated device)#17e34795"
+  },
+  {
+    "id": "32be6b4b",
+    "title": "Snake",
+    "year": 1997,
+    "yearLabel": "1997",
+    "decade": "1990s",
+    "device": "Nokia phones",
+    "type": "Game / software",
+    "platform": [
+      "Nokia phones"
+    ],
+    "hardware": "Cell Phone",
+    "genre": "Mobile",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Teneli Armanto (Nokia)",
+    "maker": [
+      "Nokia"
+    ],
+    "country": "Finland",
+    "origin": [
+      "Finland"
+    ],
+    "description": "A preloaded game on the Nokia 6110, in which the player maneuvers a line and tries to grow the line by running into items while making sure the line doesn't collide into itself. Snake originated on early computers and calculators. The version for Nokia devices was programmed by Nokia Design Engineer Teneli Armanto. The game was played on 350 million Nokia devices worldwide according to the company.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/2b902f89_1757954941_play-classic-snake-97-game-android-ios-windows-phone.1280x600.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 21,
+    "sk": "Nokia phones#32be6b4b"
+  },
+  {
+    "id": "3249bdbe",
+    "title": "Lemmings",
+    "year": 1993,
+    "yearLabel": "1993",
+    "decade": "1990s",
+    "device": "HP 48 calculator",
+    "type": "Game / software",
+    "platform": [
+      "HP 48 calculator"
+    ],
+    "hardware": "Calculator",
+    "genre": "Pervasive",
+    "playStyle": [
+      "Pervasive"
+    ],
+    "connectivity": [],
+    "players": [
+      "Multiplayer"
+    ],
+    "developer": "Hewlett-Packard",
+    "maker": [
+      "Hewlett-Packard"
+    ],
+    "country": "USA",
+    "origin": [
+      "United States"
+    ],
+    "description": "The game Lemmings was released in 1993, which could be programmed into the calculator. The HP-48 series includes the HP 48S, HP 48SX, HP 48G, HP 48GX, and HP 48G+.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/354372a4_1757955103_huge48gx.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 22,
+    "sk": "HP 48 calculator#3249bdbe"
+  },
+  {
+    "id": "a4480fa3",
+    "title": "Lemmings",
+    "year": 1994,
+    "yearLabel": "1994",
+    "decade": "1990s",
+    "device": "Sega Game Gear",
+    "type": "Game / software",
+    "platform": [
+      "Sega Game Gear"
+    ],
+    "hardware": "Game Console, Game Cartridge",
+    "genre": "Handheld",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Pysgnosis",
+    "maker": [
+      "Psygnosis"
+    ],
+    "country": "England",
+    "origin": [
+      "United Kingdom"
+    ],
+    "description": "Lemmings is a puzzle/strategy game for the Sega Game Gear developed by Psygnosis. Players are tasked to help rescue lemmings across the 120 levels in the game, while avoiding obstacles and hazards. The player controls a crosshair that can direct Lemmings, and each level has a different range of skills, a different amount of Lemmings, and a different percentage target in order to progress.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/13b04f23_1757955563_s-l300.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 23,
+    "sk": "Sega Game Gear#a4480fa3"
+  },
+  {
+    "id": "cede4712",
+    "title": "Neo Turf Masters (Neo Geo Pocket Color)",
+    "year": 1999,
+    "yearLabel": "1999",
+    "decade": "1990s",
+    "device": "Neo Geo Pocket",
+    "type": "Game / software",
+    "platform": [
+      "Neo Geo Pocket"
+    ],
+    "hardware": "Game Console",
+    "genre": "Mobile",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Nazka, SNK",
+    "maker": [
+      "Nazka",
+      "SNK"
+    ],
+    "country": "Japan",
+    "origin": [
+      "Japan"
+    ],
+    "description": "Neo Turf Masters is an arcade style golfing game with various levels and golfers from which to choose. Standing out from many other golfing games, in Neo Turf Masters, players would click once to swing their club and hit the ball, rather than twice. Neo Turf Masters was ported to the Neo Geo Pocket Color in 1999 from the original 1996 game. The version on the Pocket Color was less detailed and cartoonish compared to the original game.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/7bae8f40_1757953818_neoturfmasters_english-1000x510w.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 24,
+    "sk": "Neo Geo Pocket#cede4712"
+  },
+  {
+    "id": "6df8486a",
+    "title": "Ping Pong Plus",
+    "year": 1998,
+    "yearLabel": "1998",
+    "decade": "1990s",
+    "device": "Game / software",
+    "type": "Game / software",
+    "platform": [],
+    "hardware": "Sensor",
+    "genre": "Hybrid Reality",
+    "playStyle": [
+      "Hybrid reality"
+    ],
+    "connectivity": [],
+    "players": [
+      "Multiplayer"
+    ],
+    "developer": "Tangible Media Group, MIT",
+    "maker": [
+      "Tangible Media Group",
+      "MIT"
+    ],
+    "country": "USA",
+    "origin": [
+      "United States"
+    ],
+    "description": "A game of ping-pong featuring a reactive table that incorporates sound and projection technology. The way the ball hits the table can change how the projections visualize.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/1bd15f18_1757955463_image_1bd15f18.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 25,
+    "sk": "Game / software#6df8486a"
+  },
+  {
+    "id": "3669dba1",
+    "title": "Watara Supervision",
+    "year": 1992,
+    "yearLabel": "1992",
+    "decade": "1990s",
+    "device": "Handheld console",
+    "type": "Handheld console",
+    "platform": [],
+    "hardware": "Game Console, Headphones",
+    "genre": "Mobile",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Watara",
+    "maker": [
+      "Watara"
+    ],
+    "country": "Asia (country not specified)",
+    "origin": [
+      "Asia"
+    ],
+    "description": "Watara Supervision is a handheld gaming console where players use cartridges to play video games. It features a monochrome LCD screen with simple button controls.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/IMG_6509.jpeg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 26,
+    "sk": "Handheld console#3669dba1"
+  },
+  {
+    "id": "595fb1ba",
+    "title": "StarTAC",
+    "year": 1996,
+    "yearLabel": "1996",
+    "decade": "1990s",
+    "device": "Mobile phone",
+    "type": "Mobile phone",
+    "platform": [],
+    "hardware": "Cell Phone",
+    "genre": "Mobile",
+    "playStyle": [],
+    "connectivity": [
+      "Cellular network"
+    ],
+    "players": [
+      "Multiplayer"
+    ],
+    "developer": "Motorola",
+    "maker": [
+      "Motorola"
+    ],
+    "country": "USA",
+    "origin": [
+      "United States"
+    ],
+    "description": "The very first clamshell flip phone released in 1996 by Motorola. Lightweight, wearable with a belt holster, and with new vibration alerts, it was the first widely accessible cellphone. The starting cost was around $1000. The small size of the StarTAC meant minimal battery life, unless a second battery was attached to the back.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/0fc44708_1757955118_0_QJXr92M5kJw2oksp.jpeg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 27,
+    "sk": "Mobile phone#595fb1ba"
+  },
+  {
+    "id": "0ecbcf89",
+    "title": "Mole Mania",
+    "year": 1996,
+    "yearLabel": "1996",
+    "decade": "1990s",
+    "device": "Game Boy",
+    "type": "Game / software",
+    "platform": [
+      "Game Boy"
+    ],
+    "hardware": "Game Cartridge, Game Console",
+    "genre": "Mobile",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Nintendo EAD, Pax Softnica",
+    "maker": [
+      "Nintendo EAD",
+      "Pax Softnica"
+    ],
+    "country": "Japan",
+    "origin": [
+      "Japan"
+    ],
+    "description": "Mole Mania is a puzzle game for the Nintendo Game Boy. Players control Muddy the mole as they push, pull, and throw a ball to a gate. The ball hitting the gate will allow players to advance to the next level. Players can also dig around obstacles, making holes that can help or hinder their progress. Leaving the screen and coming back resets the level, in case a mistake is made.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/10178740_1757954841_Mole_mania_boxart.png",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 28,
+    "sk": "Game Boy#0ecbcf89"
+  },
+  {
+    "id": "b58711c8",
+    "title": "Pocket Bomberman",
+    "year": 1997,
+    "yearLabel": "1997",
+    "decade": "1990s",
+    "device": "Game Boy Color",
+    "type": "Game / software",
+    "platform": [
+      "Game Boy Color"
+    ],
+    "hardware": "Game Cartridge, Game Console",
+    "genre": "Mobile",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Hudson Soft",
+    "maker": [
+      "Hudson Soft"
+    ],
+    "country": "Japan",
+    "origin": [
+      "Japan"
+    ],
+    "description": "Pocket Bomberman is a side-scrolling platformer for the Nintendo Game Boy Color. Gameplay involves players controlling Bomberman as he traverses through levels, dropping bombs to clear obstacles and destroy enemies. The game has 25 different levels and, in order to progress, the player must eliminate every enemy on said level. Pocket Bomberman was a launch title for the Game Boy Color, and was the first in the series to not have a top-down perspective.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/b1e8b870_1757953457_220px-Pocket_Bomberman_cover.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 29,
+    "sk": "Game Boy Color#b58711c8"
+  },
+  {
+    "id": "44ac3a97",
+    "title": "Pokémon Pikachu 2 GS",
+    "year": 1999,
+    "yearLabel": "1999",
+    "decade": "1990s",
+    "device": "Built-in (dedicated device)",
+    "type": "Virtual pet & wearable",
+    "platform": [
+      "Built-in (dedicated device)"
+    ],
+    "hardware": "Game Console",
+    "genre": "Mobile",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Jupiter Corporation, Nintendo",
+    "maker": [
+      "Jupiter Corporation",
+      "Nintendo"
+    ],
+    "country": "Japan",
+    "origin": [
+      "Japan"
+    ],
+    "description": "Small pedometer wearable that players could strap to their belt. For each kilometer walked, the player would receive \"1 watt\" which was in-game currency that would allow them to gamble and/or purchase gifts for Pikachu, the character of the game. Additionally, the  The purpose of the game is to make Pikachu happy and to increase the friendship level with Pikachu. The game featured an alarm and color-screen.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/9b142db9_1757953450_99b29dcc78d1d199113a250c0db40073.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 30,
+    "sk": "Built-in (dedicated device)#44ac3a97"
+  },
+  {
+    "id": "a3cb770c",
+    "title": "Savannah",
+    "year": 2004,
+    "yearLabel": "2004",
+    "decade": "2000s",
+    "device": "Game / software",
+    "type": "Game / software",
+    "platform": [],
+    "hardware": "GPS, PDA",
+    "genre": "Location-based",
+    "playStyle": [
+      "Location-based"
+    ],
+    "connectivity": [
+      "GPS / location",
+      "Cellular network",
+      "Internet / Wi-Fi"
+    ],
+    "players": [
+      "Multiplayer"
+    ],
+    "developer": "K. Facer, R. Joiner, D. Stanton, J. Reid, R. Hull, D. Kirk",
+    "maker": [
+      "K. Facer",
+      "R. Joiner",
+      "D. Stanton",
+      "J. Reid",
+      "R. Hull",
+      "D. Kirk"
+    ],
+    "country": "United Kingdom",
+    "origin": [
+      "United Kingdom"
+    ],
+    "description": "Savannah is a game that was designed as a study to offer insights as to how mobile gaming can support learning. It was target towards kids between the ages of 11 and 12. The children were given GPSs that were linked to PDAs. Through the PDAs they could see, hear, and “smell” their surroundings in the virtual Savannah. There were two domains for the game. The first was an outdoor area that measured 100m x 50m. In this area, the kids would interact with a virtual Savannah and try to survive as lions in the wild. The children were exposed to real risks of being a lion in the Savannah and tried to survive. The other domain was an indoor space called the “Den”.  This space was a space where children would reflect on how well they survived and used their resources. While in the Savannah, the children would see still images of their environment that simulated scents or images the lions would see. They had an energy bar that would let them know if they were too hot or too hungry. They were also able to send information back to the Den to look back at later.",
+    "image": "",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 31,
+    "sk": "Game / software#a3cb770c"
+  },
+  {
+    "id": "7f26f83c",
+    "title": "Tony Hawk's Pro Skater",
+    "year": 2003,
+    "yearLabel": "2003",
+    "decade": "2000s",
+    "device": "N-Gage",
+    "type": "Game / software",
+    "platform": [
+      "N-Gage"
+    ],
+    "hardware": "Game Console",
+    "genre": "Mobile",
+    "playStyle": [],
+    "connectivity": [
+      "Short-range wireless"
+    ],
+    "players": [
+      "Multiplayer"
+    ],
+    "developer": "Neversoft Entertainment",
+    "maker": [
+      "Neversoft Entertainment"
+    ],
+    "country": "USA & Europe",
+    "origin": [
+      "United States",
+      "Europe"
+    ],
+    "description": "Bundled with the N-Gage Game Deck, this game allowed for this popular skateboarding series to enter into the mobile market. The controls of the main series stay true, and Bluetooth multiplayer is a feature as well. This game also came out on the Nintendo 64, PlayStation, Game Boy, Dreamcast, and Game Boy Color. Gameplay involved 3D environments while performing tricks, allowing the player to earn points, compete against friends and set records.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/b251d47e_1757954086_31RzzCUq4GL.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 32,
+    "sk": "N-Gage#7f26f83c"
+  },
+  {
+    "id": "a558e86d",
+    "title": "REXplorer",
+    "year": 2007,
+    "yearLabel": "2007",
+    "decade": "2000s",
+    "device": "Mobile phone",
+    "type": "Game / software",
+    "platform": [
+      "Mobile phone"
+    ],
+    "hardware": "Cell Phone, GPS",
+    "genre": "Pervasive, Location-based, Hybrid Reality, Urban",
+    "playStyle": [
+      "Pervasive",
+      "Location-based",
+      "Hybrid reality",
+      "Urban"
+    ],
+    "connectivity": [
+      "GPS / location"
+    ],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Rafael Ballagas, Steffen P. Walz, Regensburg Experience Museum",
+    "maker": [
+      "Rafael Ballagas",
+      "Steffen P. Walz",
+      "Regensburg Experience Museum"
+    ],
+    "country": "Germany",
+    "origin": [
+      "Germany"
+    ],
+    "description": "REXplorer is a mobile, pervasive spell-casting game designed for tourists of Regensburg, Germany. The game creates player encounters with spirits (historical figures) that are associated with significant buildings in an urban setting. A novel mobile interaction mechanism of “casting a spell” (making a gesture by waving a mobile phone through the air) allows the player to awaken and communicate with a spirit to continue playing the game. The game is designed to inform visitors about history in a fun manner.",
+    "image": "",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 33,
+    "sk": "Mobile phone#a558e86d"
+  },
+  {
+    "id": "2bb86054",
+    "title": "Gizmondo",
+    "year": 2005,
+    "yearLabel": "2005",
+    "decade": "2000s",
+    "device": "Gizmondo",
+    "type": "Handheld console",
+    "platform": [
+      "Gizmondo"
+    ],
+    "hardware": "Cell Phone",
+    "genre": "Mobile",
+    "playStyle": [],
+    "connectivity": [
+      "Cellular network"
+    ],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Tiger Telematics",
+    "maker": [
+      "Tiger Telematics"
+    ],
+    "country": "Sweden",
+    "origin": [
+      "Sweden"
+    ],
+    "description": "The Gizmondo is a handheld game console released by Tiger Telematics in 2005. The handheld could play games via cartridges, as well as other media. Gizmondo models are small with an LCD screen, featured four control buttons on the right, and a control dial on the left side of the console. This console is considered to be a massive failure due to the lack of advertising, low count of games (14), and the executive of Tiger Telematics being involved in the Swedish mafia.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/061d37dc_1757953983_2cc7dc2e-ec98-4e85-bc5d-56eca4bd70e3-getty-115146201.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 34,
+    "sk": "Gizmondo#2bb86054"
+  },
+  {
+    "id": "a569496b",
+    "title": "Cybiko Classic",
+    "year": 2000,
+    "yearLabel": "2000",
+    "decade": "2000s",
+    "device": "PDA / pocket computer",
+    "type": "PDA / pocket computer",
+    "platform": [],
+    "hardware": "Cell Phone, Game Console",
+    "genre": "Mobile",
+    "playStyle": [],
+    "connectivity": [
+      "Internet / Wi-Fi",
+      "Cellular network"
+    ],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Cybiko Inc.",
+    "maker": [
+      "Cybiko"
+    ],
+    "country": "Russia",
+    "origin": [
+      "Russia"
+    ],
+    "description": "The Cybiko is a hand-held computer introduced in 2000, featuring its own two-way radio text messaging system. It has over 430 \"official\" freeware games and applications. The handheld was marketed at teens and young adults and had a launch price of $149.99. Cybiko had many prominent features that a smartphone would like gaming, email, and internet. The Cybiko Classic came in five colors: blue, purple, neon green, white, and black",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/096ed388_1757954192_maxresdefault.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 35,
+    "sk": "PDA / pocket computer#a569496b"
+  },
+  {
+    "id": "a0071eff-9334-4984-acd7-692337289a3f",
+    "title": "GPS MAP 60CS",
+    "year": 2004,
+    "yearLabel": "2004",
+    "decade": "2000s",
+    "device": "Garmin GPS",
+    "type": "GPS device",
+    "platform": [
+      "Garmin GPS"
+    ],
+    "hardware": "",
+    "genre": "",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [],
+    "developer": "Garmin",
+    "maker": [
+      "Garmin"
+    ],
+    "country": "United States of America",
+    "origin": [
+      "United States"
+    ],
+    "description": "GPS MAP 60CS is a handheld GPS device where users navigate and track location using satellite signals. It features a color screen with mapping and waypoint functionality.",
+    "image": "",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 36,
+    "sk": "Garmin GPS#a0071eff-9334-4984-acd7-692337289a3f"
+  },
+  {
+    "id": "40ee35ee",
+    "title": "Pokémon Ranger",
+    "year": 2006,
+    "yearLabel": "2006",
+    "decade": "2000s",
+    "device": "Nintendo DS",
+    "type": "Game / software",
+    "platform": [
+      "Nintendo DS"
+    ],
+    "hardware": "Game Cartridge, Stylus, Game Console",
+    "genre": "Mobile",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "HAL Laboratory, Creatures Inc.",
+    "maker": [
+      "HAL Laboratory",
+      "Creatures"
+    ],
+    "country": "Japan",
+    "origin": [
+      "Japan"
+    ],
+    "description": "Pokémon Ranger is an action/role-playing game for the Nintendo DS. Core gameplay differs from traditional Pokémon games, allowing players to use the \"capture styler\" to catch Pokémon, rather than the standard Pokeballs. Players use the touch-screen and the stylus to capture Pokémon, capturing different Pokémon allows the styler to be upgraded with different buffs. The plot involves the player controlling Lunick or Solana in their quest to capture Pokémon and stop the evil Go-Rock squad. Pokémon Ranger would receive two sequels following its success.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/0cf485ee_1757953839_pokemonranger_inline_1162522340.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 37,
+    "sk": "Nintendo DS#40ee35ee"
+  },
+  {
+    "id": "dbc716a4",
+    "title": "I Like Frank",
+    "year": 2004,
+    "yearLabel": "2004",
+    "decade": "2000s",
+    "device": "Mobile phone",
+    "type": "Game / software",
+    "platform": [
+      "Mobile phone"
+    ],
+    "hardware": "Cell Phone",
+    "genre": "Hybrid Reality, Urban",
+    "playStyle": [
+      "Hybrid reality",
+      "Urban"
+    ],
+    "connectivity": [
+      "Cellular network"
+    ],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Blast Theory, Mixed Reality Lab (University of Nottingham)",
+    "maker": [
+      "Blast Theory",
+      "Mixed Reality Lab (University of Nottingham)"
+    ],
+    "country": "Australia",
+    "origin": [
+      "Australia"
+    ],
+    "description": "Online players use a virtual map to navigate the city of Adelaide to find and open photos in specific locations. One of the potential photos that they can open offers the location of a hidden object. Once the hidden object is uncovered, the online player must ask a player in the physical world to navigate to that hidden object. Once a player in the physical world agrees to go find the hidden object, the physical world player begins receiving messages about a character \"Frank\" and his journey with the game's creator, which mirrors the journey that the physical world player is currently taking. Upon finding the hidden object (a postcard with a question), the physical world player then directs the question that is on the postcard to the online player.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/109343e6_1757954186_press_ilf_2-800x535.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 38,
+    "sk": "Mobile phone#dbc716a4"
+  },
+  {
+    "id": "6816b8dc",
+    "title": "The Journey II",
+    "year": 2007,
+    "yearLabel": "2007",
+    "decade": "2000s",
+    "device": "Mobile phone",
+    "type": "Game / software",
+    "platform": [
+      "Mobile phone"
+    ],
+    "hardware": "Cell Phone",
+    "genre": "Location-based, Pervasive",
+    "playStyle": [
+      "Location-based",
+      "Pervasive"
+    ],
+    "connectivity": [
+      "Cellular network"
+    ],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Andreas Jakl, Mopius",
+    "maker": [
+      "Andreas Jakl",
+      "Mopius"
+    ],
+    "country": "Austria",
+    "origin": [
+      "Austria"
+    ],
+    "description": "The Journey II is an attempt to introduce more narrative into an adventure game. Players solve mysteries by progressing through the story and going to actual physical locations as indicated by the story. Instead of changing the gameplay on the basis of the player’s location, the game builds a virtual game environment as soon as it realizes that the player has moved. For example, at the start of the game the player’s real home can be the office, and when asked to go to another location, such as a park, the player has to move in the real world. As soon as the game detects a change in Cell ID, it prompts the player that he or she has reached the new location (the park), which in reality could be any location in the physical world. This in turn creates a virtual world as the story unfolds and the player moves back and forth through the game world until the mystery is solved.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/9674efdc_1757954254_3-the-journey-2.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 39,
+    "sk": "Mobile phone#6816b8dc"
+  },
+  {
+    "id": "ae3c1026",
+    "title": "The Legend of Zelda: The Minish Cap",
+    "year": 2004,
+    "yearLabel": "2004",
+    "decade": "2000s",
+    "device": "Game Boy Advance",
+    "type": "Game / software",
+    "platform": [
+      "Game Boy Advance"
+    ],
+    "hardware": "Game Cartridge, Game Console",
+    "genre": "Handheld",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [
+      "Single-player"
+    ],
+    "developer": "Capcom, Flagship",
+    "maker": [
+      "Capcom",
+      "Flagship"
+    ],
+    "country": "Japan",
+    "origin": [
+      "Japan"
+    ],
+    "description": "The Legend of Zelda: The Minish Cap is an action adventure game for the Nintendo Game Boy Advance. Gameplay is similar to other Zelda games, where the player controls Link while he explores, solves puzzles, and defeats enemies. The gimmick of this game is links talking hat, the Minish Cap. It allows him to shrink and explore new areas, as he helps the Minish people defeat an ancient darkness.",
+    "image": "https://retromobilegamingproject.s3.us-east-1.amazonaws.com/games/870bdaa4_1757954735_The-Legend-of-Zelda-The-Minish-Cap-Remake.jpg",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 40,
+    "sk": "Game Boy Advance#ae3c1026"
+  },
+  {
+    "id": "4229463d-8e65-46ec-bcdd-78e325cd96a6",
+    "title": "iPad 1st generation",
+    "year": 2010,
+    "yearLabel": "2010",
+    "decade": "2010s",
+    "device": "Tablet",
+    "type": "Tablet",
+    "platform": [],
+    "hardware": "",
+    "genre": "",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [],
+    "developer": "Apple Inc.",
+    "maker": [
+      "Apple"
+    ],
+    "country": "United States of America",
+    "origin": [
+      "United States"
+    ],
+    "description": "iPad 1st generation is a tablet device where users interact through a touchscreen to browse, read, and use applications. It features a 9.7-inch LED-backlit display with multi-touch capabilities.",
+    "image": "",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 41,
+    "sk": "Tablet#4229463d-8e65-46ec-bcdd-78e325cd96a6"
+  },
+  {
+    "id": "9b205024-a6ee-4840-b322-efee2af213d9",
+    "title": "Nintendo Switch",
+    "year": 2017,
+    "yearLabel": "2017",
+    "decade": "2010s",
+    "device": "Handheld console",
+    "type": "Handheld console",
+    "platform": [],
+    "hardware": "",
+    "genre": "",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [],
+    "developer": "Nintendo",
+    "maker": [
+      "Nintendo"
+    ],
+    "country": "Japan",
+    "origin": [
+      "Japan"
+    ],
+    "description": "Nintendo Switch is a gaming console where players play games both at home and on the go. It features a hybrid design with a touchscreen display and detachable controllers.",
+    "image": "",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 42,
+    "sk": "Handheld console#9b205024-a6ee-4840-b322-efee2af213d9"
+  },
+  {
+    "id": "cab86bb1-f1a2-4e38-8ea6-b2f98111f4c2",
+    "title": "Pokemon Black 2",
+    "year": 2012,
+    "yearLabel": "2012",
+    "decade": "2010s",
+    "device": "Nintendo DS",
+    "type": "Game / software",
+    "platform": [
+      "Nintendo DS"
+    ],
+    "hardware": "",
+    "genre": "",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [],
+    "developer": "Nintendo",
+    "maker": [
+      "Nintendo"
+    ],
+    "country": "Japan",
+    "origin": [
+      "Japan"
+    ],
+    "description": "Pokemon Black 2 is a role-playing game where players explore, capture creatures, and battle opponents. It uses handheld console hardware with cartridge-based storage.",
+    "image": "",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 43,
+    "sk": "Nintendo DS#cab86bb1-f1a2-4e38-8ea6-b2f98111f4c2"
+  },
+  {
+    "id": "7fb2f6be-514a-4ad7-907e-16782c38c274",
+    "title": "Alcatel CAMEOX (5044R)",
+    "year": 2017,
+    "yearLabel": "2017",
+    "decade": "2010s",
+    "device": "Mobile phone",
+    "type": "Mobile phone",
+    "platform": [],
+    "hardware": "",
+    "genre": "",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [],
+    "developer": "TCL Communication",
+    "maker": [
+      "TCL Communication"
+    ],
+    "country": "China",
+    "origin": [
+      "China"
+    ],
+    "description": "Alcatel CAMEOX 4G LTE is a mobile phone where users make calls, send messages, and access the internet. It supports 4G LTE connectivity with standard mobile display technology.",
+    "image": "",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 44,
+    "sk": "Mobile phone#7fb2f6be-514a-4ad7-907e-16782c38c274"
+  },
+  {
+    "id": "2b8c5cde-dd25-4ab4-a8eb-3912302e7a53",
+    "title": "Nintendo Switch - Mario Kart 8",
+    "year": 2017,
+    "yearLabel": "2017",
+    "decade": "2010s",
+    "device": "Handheld console",
+    "type": "Handheld console",
+    "platform": [],
+    "hardware": "",
+    "genre": "",
+    "playStyle": [],
+    "connectivity": [],
+    "players": [],
+    "developer": "Nintendo",
+    "maker": [
+      "Nintendo"
+    ],
+    "country": "Japan",
+    "origin": [
+      "Japan"
+    ],
+    "description": "Nintendo Switch - Mario Kart 8 is a gaming console bundle where players race in Mario Kart 8 using console controls. It uses Nintendo Switch hardware with portable and docked display formats.",
+    "image": "",
+    "sourceUrl": "https://www.rmgd.org/",
+    "featuredRank": 45,
+    "sk": "Handheld console#2b8c5cde-dd25-4ab4-a8eb-3912302e7a53"
+  }
+]

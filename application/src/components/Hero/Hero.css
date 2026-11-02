@@ -1,0 +1,141 @@
+/* Matches the live rmgd.org hero: full-height black section, video at 90% opacity,
+   a top and bottom dark gradient, a white and red heavy title, a grey tagline and a bouncing chevron.
+   Sizes follow its breakpoints at 640px, 768px and 1024px. */
+.hero {
+  position: relative;
+  min-height: max(100vh, 600px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 16px;
+  overflow: hidden;
+  background: #000;
+  color: #fff;
+  text-align: center;
+}
+
+.hero-video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.9;
+}
+
+.hero-shade {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), transparent 50%, rgba(0, 0, 0, 0.7));
+}
+
+.hero-text {
+  position: relative;
+  z-index: 1;
+  padding: 0 16px;
+  transition: all 1.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* After the first few seconds the whole block fades down and out, and stays hidden. */
+.hero-text-hidden {
+  opacity: 0;
+  transform: translateY(2.5rem) scale(0.95);
+  pointer-events: none;
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: 36px;
+  font-weight: 900;
+  line-height: 1;
+  letter-spacing: -0.05em;
+  text-transform: uppercase;
+}
+
+.hero-line {
+  display: block;
+}
+
+.hero-line-2 {
+  margin-top: 8px;
+  color: #dc2626;
+}
+
+.hero-tagline {
+  max-width: 42rem;
+  margin: 24px auto 0;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  color: #d4d4d4;
+}
+
+/* The whole block is visible first, then the three lines each fade in again, one after the other. */
+.hero-line-1 { animation: hero-in 1s cubic-bezier(0.4, 0, 0.2, 1); }
+.hero-line-2 { animation: hero-in 1s cubic-bezier(0.4, 0, 0.2, 1) 0.3s; }
+.hero-line-3 { animation: hero-in 1s cubic-bezier(0.4, 0, 0.2, 1) 0.7s; }
+
+@keyframes hero-in {
+  from { opacity: 0; transform: translateY(10%); }
+  to { opacity: 1; transform: none; }
+}
+
+.hero-scroll {
+  position: absolute;
+  left: 50%;
+  bottom: 60px;
+  z-index: 1;
+  display: flex;
+  padding: 0;
+  background: none;
+  border: 0;
+  cursor: pointer;
+  color: rgba(255, 255, 255, 0.9);
+  transform: translateX(-50%);
+  animation: hero-bounce 1s infinite;
+  transition: scale 0.15s;
+}
+
+.hero-scroll:hover {
+  scale: 1.1;
+}
+
+.hero-scroll:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 4px;
+}
+
+.hero-credit {
+  position: absolute;
+  right: 16px;
+  bottom: 48px;
+  z-index: 1;
+  margin: 0;
+  font-size: 12px;
+  opacity: 0.7;
+}
+
+@keyframes hero-bounce {
+  0%, 100% { transform: translate(-50%, -25%); animation-timing-function: cubic-bezier(0.8, 0, 1, 1); }
+  50% { transform: translate(-50%, 0); animation-timing-function: cubic-bezier(0, 0, 0.2, 1); }
+}
+
+@media (min-width: 640px) {
+  .hero h1 { font-size: 60px; }
+  .hero-tagline { margin-top: 32px; font-size: 18px; line-height: 28px; }
+}
+
+@media (min-width: 768px) {
+  .hero h1 { font-size: 96px; }
+  .hero-tagline { font-size: 20px; }
+}
+
+@media (min-width: 1024px) {
+  .hero h1 { font-size: 128px; }
+  .hero-tagline { font-size: 24px; line-height: 32px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-line, .hero-scroll { animation: none; }
+  .hero-text { transition: none; }
+}

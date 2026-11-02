@@ -1,0 +1,264 @@
+/* The guide follows the look of the chat on rmgd.org: a red round button, then a dark panel with a red
+   header, grey replies, red questions, suggestion chips and a text box. */
+.chat {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  z-index: 110;
+  color: #f4f4f5;
+}
+
+.chat button,
+.chat input {
+  font-family: inherit;
+}
+
+.chat :focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+}
+
+.chat-launcher {
+  display: flex;
+  padding: 16px;
+  border: 0;
+  border-radius: 50%;
+  background: #dc2626;
+  color: #fff;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.chat-launcher:hover {
+  background: #b91c1c;
+  scale: 1.05;
+}
+
+.chat-panel {
+  display: flex;
+  flex-direction: column;
+  width: min(384px, calc(100vw - 32px));
+  height: min(600px, calc(100vh - 48px));
+  overflow: hidden;
+  border: 1px solid #27272a;
+  border-radius: 16px;
+  background: #09090b;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+}
+
+.chat-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 16px;
+  background: #dc2626;
+  color: #fff;
+}
+
+.chat-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.chat-subtitle {
+  font-size: 12px;
+  font-weight: 400;
+  color: #fecaca;
+}
+
+.chat-close {
+  display: flex;
+  padding: 4px;
+  border: 0;
+  border-radius: 8px;
+  background: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+.chat-close:hover {
+  background: #b91c1c;
+}
+
+.chat-messages {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 0;
+  padding: 16px;
+  overflow-y: auto;
+}
+
+.chat-row {
+  display: flex;
+}
+
+.chat-row-user {
+  justify-content: flex-end;
+}
+
+.chat-bubble {
+  padding: 10px 16px;
+  border-radius: 16px;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.chat-bubble p {
+  margin: 0;
+}
+
+.chat-bubble-bot {
+  max-width: 85%;
+  border-bottom-left-radius: 6px;
+  background: #27272a;
+  color: #f4f4f5;
+}
+
+.chat-bubble-user {
+  max-width: 80%;
+  border-bottom-right-radius: 6px;
+  background: #dc2626;
+  color: #fff;
+}
+
+.chat-bubble ul {
+  margin: 8px 0 0;
+  padding-left: 18px;
+}
+
+.chat-bubble .chat-footer {
+  margin-top: 8px;
+  color: #a1a1aa;
+}
+
+.chat-suggestions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding-top: 8px;
+}
+
+.chat-suggestions button {
+  padding: 6px 12px;
+  border: 1px solid #3f3f46;
+  border-radius: 999px;
+  background: #27272a;
+  font-size: 12px;
+  color: #d4d4d8;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.chat-did-you-mean {
+  padding-top: 8px;
+}
+
+.chat-did-you-mean button {
+  background: #3f3f46;
+  color: #fff;
+}
+
+.chat-suggestions button:hover {
+  background: #3f3f46;
+}
+
+.chat-did-you-mean button:hover {
+  background: #52525b;
+}
+
+.chat-thinking {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0 4px;
+  font-size: 14px;
+  color: #a1a1aa;
+}
+
+.chat-dots {
+  display: flex;
+  gap: 4px;
+}
+
+.chat-dots span {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #ef4444;
+  animation: chat-bounce 1s infinite;
+}
+
+.chat-dots span:nth-child(2) { animation-delay: 0.15s; }
+.chat-dots span:nth-child(3) { animation-delay: 0.3s; }
+
+@keyframes chat-bounce {
+  0%, 100% { transform: translateY(-25%); }
+  50% { transform: none; }
+}
+
+.chat-form {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px;
+  border-top: 1px solid #27272a;
+}
+
+.chat-form input {
+  flex: 1;
+  min-width: 0;
+  padding: 10px 16px;
+  border: 1px solid #3f3f46;
+  border-radius: 12px;
+  background: #27272a;
+  font-size: 14px;
+  color: #fff;
+}
+
+.chat-form input::placeholder {
+  color: #71717a;
+}
+
+.chat-form input:focus {
+  outline: none;
+  box-shadow: 0 0 0 1px #dc2626;
+}
+
+.chat-form input:disabled {
+  opacity: 0.5;
+}
+
+.chat-send {
+  display: flex;
+  padding: 10px;
+  border: 0;
+  border-radius: 12px;
+  background: #3f3f46;
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.chat-send:hover:not(:disabled) {
+  background: #52525b;
+}
+
+.chat-send:disabled {
+  background: #27272a;
+  cursor: not-allowed;
+}
+
+@media (max-width: 639px) {
+  .chat { right: 16px; bottom: 16px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .chat-dots span { animation: none; }
+  .chat-launcher { transition: none; }
+}

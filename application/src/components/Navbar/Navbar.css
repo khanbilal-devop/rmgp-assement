@@ -1,0 +1,94 @@
+/* Matches the live rmgd.org header without the nav links: clear at the top, dark and blurred once scrolled. */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  padding: 16px 0;
+  border-bottom: 1px solid transparent;
+  background: transparent;
+  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.navbar-scrolled {
+  padding: 8px 0;
+  border-bottom-color: rgba(255, 255, 255, 0.1);
+  background: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(24px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-inner {
+  display: flex;
+  align-items: center;
+  height: 64px;
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.navbar-logo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 900;
+  line-height: 28px;
+  letter-spacing: -0.025em;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: color 0.15s;
+}
+
+.navbar-logo:hover {
+  color: #d1d5db;
+}
+
+.navbar-logo:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 4px;
+  border-radius: 4px;
+}
+
+/* Two overlapping circles, red behind and grey in front. */
+.navbar-mark {
+  position: relative;
+  flex: none;
+  width: 24px;
+  height: 24px;
+}
+
+.navbar-dot {
+  position: absolute;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  transform: translateY(-50%);
+}
+
+.navbar-dot-red {
+  left: 0;
+  z-index: 0;
+  background: linear-gradient(135deg, #ef4444, #b91c1c);
+}
+
+.navbar-dot-grey {
+  left: 8px;
+  z-index: 1;
+  background: linear-gradient(135deg, #d1d5db, #6b7280);
+}
+
+@media (min-width: 768px) {
+  .navbar-inner { padding: 0 32px; }
+}
+
+@media (min-width: 1024px) {
+  .navbar-inner { padding: 0 64px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .navbar { transition: none; }
+}
