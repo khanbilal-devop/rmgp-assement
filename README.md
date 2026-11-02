@@ -35,7 +35,7 @@ cd aws && RMGP_API_URL="https://<function-url>/" python3 test_api.py -v   # 72 c
 | Hero | RMGP's video, muted, looping and inline, with the line "Preserving the history of mobile gameplay from 1975 to 2008." The title fades out after about four seconds, as on the live site. |
 | From the Archive | Title search; sort (featured, newest, oldest, title); a year slider with decade buttons; a photos-only toggle; and checkbox filters for Type, Platform, Play Style, Connectivity, Players, Origin and Maker, each with live counts. It shows chips for the chosen filters, Clear (n) on each group and Clear all. Results show 8 per page with every page number listed. A clear message and a reset button appear when nothing matches. Clicking a card opens the game in a dialog on the same page, with its photo and all its fields. |
 | Images | *In progress.* |
-| About | A short description of RMGP, written in my own words. |
+| About | What RMGP is and why preserving early mobile games matters, written in my own words. |
 | Collection guide | A chat panel, bottom right. See [Chatbot](#chatbot). |
 
 The layout is built mobile-first. At 375px wide it has no sideways scrolling, and the filter groups and cards stack into one column. The filters, cards, dialog and chat all work with the keyboard. The dialog closes with Esc and puts focus back on the card.

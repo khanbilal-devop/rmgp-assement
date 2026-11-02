@@ -46,7 +46,9 @@ function About() {
           </h2>
           <p>
             RMGP is a research archive at Northeastern University that collects and documents early mobile
-            games and devices from 1975 to 2008, so their history stays open to everyone.
+            games and devices from 1975 to 2008, so their history stays open to everyone. These early
+            handhelds, phones and games shaped how we play today, yet many are wearing out or have
+            disappeared from stores, and once they are gone their story is lost with them.
           </p>
           <a className="about-link" href={RMGP_URL} target="_blank" rel="noreferrer">
             Learn More <Icon name="arrow" size={16} />

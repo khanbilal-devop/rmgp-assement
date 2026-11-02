@@ -9,6 +9,8 @@ describe('About', () => {
     expect(screen.getByText('About RMGP')).toBeInTheDocument()
     expect(screen.getByRole('heading', { level: 2 })).toHaveTextContent(/Saving the\s*Story of\s*Mobile Play/)
     expect(screen.getByText(/from 1975 to 2008/)).toBeInTheDocument()
+    // the brief asks for why preserving early mobile games matters, too
+    expect(screen.getByText(/shaped how we play today/)).toHaveTextContent(/once they are gone their story is lost/)
   })
 
   it('links to the RMGP about page, opening in a new tab', () => {
