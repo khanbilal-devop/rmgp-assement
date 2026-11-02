@@ -34,13 +34,12 @@ cd aws && RMGP_API_URL="https://<function-url>/" python3 test_api.py -v   # 72 c
 | Navbar | A fixed bar with the logo only. It's clear over the hero and turns dark and blurred after 60px of scrolling, as on rmgd.org. |
 | Hero | RMGP's video, muted, looping and inline, with the line "Preserving the history of mobile gameplay from 1975 to 2008." The title fades out after about four seconds, as on the live site. |
 | From the Archive | Title search; sort (featured, newest, oldest, title); a year slider with decade buttons; a photos-only toggle; and checkbox filters for Type, Platform, Play Style, Connectivity, Players, Origin and Maker, each with live counts. It shows chips for the chosen filters, Clear (n) on each group and Clear all. Results show 8 per page with every page number listed. A clear message and a reset button appear when nothing matches. Clicking a card opens the game in a dialog on the same page, with its photo and all its fields. |
-| Images | *In progress.* |
 | About | What RMGP is and why preserving early mobile games matters, written in my own words. |
 | Collection guide | A chat panel, bottom right. See [Chatbot](#chatbot). |
 
 The layout is built mobile-first. At 375px wide it has no sideways scrolling, and the filter groups and cards stack into one column. The filters, cards, dialog and chat all work with the keyboard. The dialog closes with Esc and puts focus back on the card.
 
-**Order:** the archive comes straight after the hero, as on the live homepage. The brief lists Images before the games. I also left out the live site's "Discover & Explore" section.
+**Order:** the archive comes straight after the hero, as on the live homepage. I left out the Images section from the brief and the live site's "Discover & Explore" section.
 
 ## Data
 
@@ -154,6 +153,7 @@ Example questions: "Which games are from the 1980s?", "Which games are for two p
 
 ## What I would do next
 
+- Add the Images section the brief asks for, using photos downloaded into the project.
 - Serve the built page from S3 and CloudFront, and turn on CORS for the Function URL, or put API Gateway in front of the Lambda with a usage limit.
 - Give the chatbot follow-up questions, a "Show these in the archive" button that applies its filters to the page, and clickable game names that open the detail dialog.
 - Give the Lambda its own execution role that allows only the two read actions, in place of the PowerUserRole it uses today.
@@ -163,13 +163,17 @@ Example questions: "Which games are from the 1980s?", "Which games are for two p
 
 ## What I left out
 
+- The Images section from the brief. It isn't built, so the page goes from the archive straight to About.
 - The live site's "Discover & Explore" section, its navigation links and the "See also" carousel in its game detail view.
 - The voice input on the live chat, and any AI-model answers.
 - Copies of the images in the repo. They're shown from RMGP's image store.
 
 ## Report
 
-A short write-up for reviewers is in [`docs/RMGP-Take-Home-Report.pdf`](docs/RMGP-Take-Home-Report.pdf).
+[`docs/RMGP-Take-Home-Report.pdf`](docs/RMGP-Take-Home-Report.pdf) is a short visual tour of the page for non-technical readers. It has 9 landscape pages of screenshots with brief notes, and doesn't cover the technical design, which is in this README.
+
+- **Page 2** lists every feature as a card. Clicking a card opens that feature's page, and each page has a **Back to features** button.
+- **Download it to use the links.** GitHub's file viewer shows the pages but ignores links inside a PDF. They work in Preview, Acrobat, Chrome and Edge.
 
 ## Credits
 
