@@ -20,6 +20,8 @@ Open http://localhost:5173.
 
 In development, Vite forwards `/api` to the Function URL (see `vite.config.js`). The browser only talks to localhost, and the URL stays out of the page code.
 
+**Deployed on Vercel:** the Vite proxy only exists in development, so `application/api/index.js` does the same job on Vercel as a small serverless function. In the Vercel project settings, set the project's root directory to `application` and add an environment variable `API_URL` set to the Function URL, with no trailing slash, then redeploy. The URL stays out of the repository and the page code there too.
+
 **Tests:**
 
 ```bash
