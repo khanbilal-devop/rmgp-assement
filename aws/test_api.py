@@ -80,7 +80,7 @@ class ApiTestCase(unittest.TestCase):
 
 class TestDataIntegrity(ApiTestCase):
     def test_no_filters_returns_every_game(self):
-        """With no filters the table holds all 45 games from games.json."""
+        """With no filters the table holds every game from games.json."""
         self.assert_returns(ids(GAMES))
 
     def test_items_match_the_json_exactly(self):
@@ -101,6 +101,11 @@ class TestDataIntegrity(ApiTestCase):
         for item in fetch_all():
             self.assertEqual(item["decade"], f"{item['year'] // 10 * 10}s", item["title"])
             self.assertEqual(item["sk"], f"{item['device']}#{item['id']}", item["title"])
+
+    def test_featured_order_starts_with_the_live_sites_first_games(self):
+        """The first featured games are the opening games of the live archive, in its order."""
+        first = [item["title"] for item in fetch_all(sort="featured")[:4]]
+        self.assertEqual(first, ["N-Gage", "Donkey Kong 3 Micro VS System", "Watara Supervision", "Tomy Blip"])
 
     def test_every_game_has_a_featured_rank(self):
         """The featured ranks run from 1 to the number of games with no gaps or repeats."""

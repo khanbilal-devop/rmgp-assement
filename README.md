@@ -1,6 +1,6 @@
 # RMGP front page: take-home
 
-A single front page in the style of the [Retro Mobile Gaming Project](https://www.rmgd.org) (RMGP). The page shows 45 real games from the RMGP collection. It has search, filters and a detail view, and the games are served from a small DynamoDB table through a read-only AWS Lambda API. A simple chatbot answers questions about the collection.
+A single front page in the style of the [Retro Mobile Gaming Project](https://www.rmgd.org) (RMGP). The page shows 75 real games from the RMGP collection. It has search, filters and a detail view, and the games are served from a small DynamoDB table through a read-only AWS Lambda API. A simple chatbot answers questions about the collection.
 
 - `application/` is the React page (Vite).
 - `aws/` holds the games data, the seed script, the Lambda code and the API tests.
@@ -43,14 +43,15 @@ The layout is built mobile-first. At 375px wide it has no sideways scrolling, an
 
 ## Data
 
-`aws/games.json` holds 45 games. Every record has the same 22 fields:
+`aws/games.json` holds 75 games. Every record has the same 22 fields:
 
 `id, title, year, yearLabel, decade, device, type, platform, hardware, genre, playStyle, connectivity, players, developer, maker, country, origin, description, image, sourceUrl, featuredRank, sk`
 
 - **Source:** the records come from RMGP's public `/api/games` response, which lists 311 items, and are used for this assignment only.
-- **Picks:** 10 games per decade from the 1970s to the 2000s, plus all 5 from the 2010s. I skipped the one record with no year.
-  - **Why 45:** the brief asks for 15 to 20. I went above that on purpose, so every filter has several values to show.
-  - **How:** I picked them with the same rules the live site uses to build its filters, so they cover as many filter values as possible.
+- **Picks:** 75 games in two groups. I skipped Toy Story, the one record with no year.
+  - **The first 35** are the games on the first three pages of the live archive at rmgd.org, in the same order. They are Featured 1 to 35, so the page opens with the same games as the live site.
+  - **The other 40** were picked to cover every filter: 10 per decade from the 1970s to the 2000s, plus all 5 from the 2010s, chosen with the same rules the live site uses to build its filters.
+  - **Why 75:** the brief asks for 15 to 20. I went above that on purpose, so the page matches the live site's opening games and every filter has several values to show.
 - **Non-games:** some picks, such as calculators, phones, an iPad and a GPS unit, aren't games but are part of the RMGP collection. 11 records have no photo, which is what the photos-only toggle hides.
 - **Device and filter fields:** `device` is RMGP's Platform label, or its Type when the Platform is empty. `type`, `playStyle`, `connectivity`, `players`, `origin` and `maker` are cleaned up the same way the live site does it. For example, "USA" and "United States of America" both become "United States".
 - **Images:** they aren't copied into the repo. The page shows them from RMGP's own image store.
@@ -65,11 +66,11 @@ The layout is built mobile-first. At 375px wide it has no sideways scrolling, an
 | Capacity | On-demand, personal account, free tier |
 | Partition key | `decade` (String), for example `1980s` |
 | Sort key | `sk` (String), `device#id`, for example `Game Boy#bca605de` |
-| Items | 45, the same records as `aws/games.json`, checked by `test_api.py` |
+| Items | 75, the same records as `aws/games.json`, checked by `test_api.py` |
 
 **Why these keys:**
 - **One device and one decade is a single Query:** `decade = "1980s"` and `begins_with(sk, "Game Boy#")`. That's the access pattern the brief asks for.
-- **The partitions are even for this data:** 10, 10, 10, 10 and 5 games. Using device as the partition key would put 15 games in one partition and 1 in many others.
+- **The partitions are spread more evenly than devices would be:** the decades hold 10, 31, 12, 17 and 5 games. Using device as the partition key would put 34 games in one partition and 1 in many others.
 - **A whole decade is one Query** on the partition key alone.
 - **The `id` at the end of the sort key** keeps two games on the same device unique.
 - **The year isn't in the key.** A year can't be matched by key behind the device anyway, so the Lambda filters exact years after the Query.
@@ -92,7 +93,7 @@ table.query(KeyConditionExpression=Key("decade").eq("1980s") & Key("sk").begins_
 
 **Other filters:**
 - A year range runs one Query per decade it touches and then trims to the exact years. There are at most 5 Queries.
-- A device-only request, or one with no decade or years, Scans the table. That's fine at 45 items.
+- A device-only request, or one with no decade or years, Scans the table. That's fine at 75 items.
 - Keyword, checkbox filters, sort and paging run in the Lambda.
 
 **At a larger scale:**
@@ -107,7 +108,7 @@ table.query(KeyConditionExpression=Key("decade").eq("1980s") & Key("sk").begins_
 
 1. In the AWS console, create the table with the keys above and on-demand capacity.
 2. Open **AWS CloudShell** in the same region and upload `aws/games.json` and `aws/seed.py`.
-3. Run `python3 seed.py`. It prints `Wrote 45 games; table now holds 45 items.`
+3. Run `python3 seed.py`. It prints `Wrote 75 games; table now holds 75 items.` Writing again replaces items with the same keys, so it's safe to rerun.
 
 ## API (Lambda)
 
